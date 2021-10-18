@@ -1,6 +1,6 @@
 # Minimal Dockerfiles for Binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rsomla/try-binder/HEAD?urlpath=lab/notebooks)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rsomla/try-binder/HEAD?urlpath=lab/tree/notebooks)
 
 [Binder](https://mybinder.org) needs only one thing for images to work:
 
